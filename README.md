@@ -1,0 +1,2 @@
+# HideGrub.sh
+simple script
